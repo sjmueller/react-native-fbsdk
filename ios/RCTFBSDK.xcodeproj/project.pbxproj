@@ -367,7 +367,6 @@
 					"~/Documents/FacebookSDK",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Carthage/Build/iOS/**",
-					"$(inherited)",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -390,7 +389,6 @@
 					"~/Documents/FacebookSDK",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Carthage/Build/iOS/**",
-					"$(inherited)",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
